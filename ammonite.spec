@@ -50,7 +50,7 @@ Pliki nag³ówkowe i biblioteki statyczne.
 %setup -q
 
 %build
-gettextize --copy --force
+%{__gettextize}
 %configure2_13
 %{__make}
 
