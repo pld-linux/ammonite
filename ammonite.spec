@@ -32,7 +32,7 @@ code can be found in the GNOME CVS repository.
 %description -l pl
 Ammonite jest nie-keszuj±cym serwerem proxy HTTP po stronie klienta ze
 specjalnymi mo¿liwo¶ciami koniecznymi by móc korzystaæ z Us³ug Eazel.
-Ammonite dostarcza u¿ytkonikowi mo¿liwo¶æ autentyfikacji oraz
+Ammonite dostarcza u¿ytkownikowi mo¿liwo¶æ autentyfikacji oraz
 szyfrowania danych.
 
 %package devel
