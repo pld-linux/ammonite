@@ -5,11 +5,6 @@ Version:	1.0.0
 Release:	2
 License:	GPL
 Group:		X11/Applications
-Group(de):	X11/Applikationen
-Group(es):	X11/Aplicaciones
-Group(pl):	X11/Aplikacje
-Group(pt_BR):	X11/AplicaГУes
-Group(pt):	X11/AplicaГУes
 Source0:	ftp://ftp.gnome.org/pub/GNOME/unstable/sources/%{name}/%{name}-%{version}.tar.gz
 URL:		http://www.gnome.org/
 BuildRequires:	openssl-devel >= 0.9.6a
@@ -44,13 +39,6 @@ szyfrowania danych.
 Summary:	Header files and libraries
 Summary(pl):	Pliki nagЁСwkowe i biblioteki statyczne
 Group:		Development/Libraries
-Group(de):	Entwicklung/Libraries
-Group(es):	Desarrollo/Bibliotecas
-Group(fr):	Development/Librairies
-Group(pl):	Programowanie/Biblioteki
-Group(pt_BR):	Desenvolvimento/Bibliotecas
-Group(ru):	Разработка/Библиотеки
-Group(uk):	Розробка/Б╕бл╕отеки
 
 %description devel
 Header files and libraries
