@@ -6,6 +6,7 @@ Release:	2
 License:	GPL
 Group:		X11/Applications
 Source0:	ftp://ftp.gnome.org/pub/GNOME/sources/%{name}/1.0/%{name}-%{version}.tar.gz
+# Source0-md5:	217263a10fb9322e5a611c6657467e58
 URL:		http://www.gnome.org/
 BuildRequires:	GConf-devel >= 0.11.0
 BuildRequires:	gettext-devel
