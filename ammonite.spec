@@ -1,5 +1,5 @@
-Summary:	Ammonite is a portion of the Eazel Services authentication framework.
-Summary(pl):	Czê¶æ schematu autoryzacji u¿ywanego w us³ugach Eazel.
+Summary:	Ammonite is a portion of the Eazel Services authentication framework
+Summary(pl):	Czê¶æ schematu autoryzacji u¿ywanego w us³ugach Eazel
 Name:		ammonite
 Version:	1.0.0
 Release:	2
