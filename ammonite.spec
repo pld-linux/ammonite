@@ -1,12 +1,12 @@
 Summary:	Ammonite is a portion of the Eazel Services authentication framework
 Summary(pl):	Czê¶æ schematu autoryzacji u¿ywanego w us³ugach Eazel
 Name:		ammonite
-Version:	1.0.0
-Release:	2
+Version:	1.0.2
+Release:	1
 License:	GPL
 Group:		X11/Applications
 Source0:	ftp://ftp.gnome.org/pub/GNOME/sources/%{name}/1.0/%{name}-%{version}.tar.gz
-# Source0-md5:	217263a10fb9322e5a611c6657467e58
+# Source0-md5:	92653cf5e4e0b8d6e4e1fbc606aeea8a
 URL:		http://www.gnome.org/
 BuildRequires:	GConf-devel >= 0.11.0
 BuildRequires:	gettext-devel
