@@ -14,7 +14,7 @@ BuildRequires:	glib-devel >= 1.2.8
 BuildRequires:	gnome-libs >= 1.2.0
 BuildRequires:	libxml-devel
 BuildRequires:	oaf-devel >= 0.6.0
-BuildRequires:	openssl-devel >= 0.9.7
+BuildRequires:	openssl-devel >= 0.9.7c
 BuildRequires:	popt-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
