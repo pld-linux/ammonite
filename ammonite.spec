@@ -56,7 +56,7 @@ Pliki nag³ówkowe i biblioteki statyczne.
 
 %build
 gettextize --copy --force
-%configure
+%configure2_13
 %{__make}
 
 %install
