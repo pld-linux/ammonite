@@ -5,16 +5,16 @@ Version:	1.0.0
 Release:	2
 License:	GPL
 Group:		X11/Applications
-Source0:	ftp://ftp.gnome.org/pub/GNOME/unstable/sources/%{name}/%{name}-%{version}.tar.gz
+Source0:	ftp://ftp.gnome.org/pub/GNOME/sources/%{name}/1.0/%{name}-%{version}.tar.gz
 URL:		http://www.gnome.org/
-BuildRequires:	openssl-devel >= 0.9.6a
-BuildRequires:	glib-devel >= 1.2.8
 BuildRequires:	GConf-devel >= 0.11.0
+BuildRequires:	gettext-devel
+BuildRequires:	glib-devel >= 1.2.8
+BuildRequires:	gnome-libs >= 1.2.0
 BuildRequires:	libxml-devel
 BuildRequires:	oaf-devel >= 0.6.0
-BuildRequires:	gnome-libs >= 1.2.0
+BuildRequires:	openssl-devel >= 0.9.6a
 BuildRequires:	popt-devel
-BuildRequires:	gettext-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %define		_prefix		/usr/X11R6
