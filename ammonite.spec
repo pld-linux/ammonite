@@ -43,7 +43,7 @@ Group:		Development/Libraries
 %description devel
 Header files and libraries
 
-%description -l pl devel
+%description devel -l pl
 Pliki nag³ówkowe i biblioteki statyczne.
 
 %prep
