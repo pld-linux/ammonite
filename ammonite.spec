@@ -1,5 +1,5 @@
 Summary:	Ammonite is a portion of the Eazel Services authentication framework
-Summary(pl):	CzÍ∂Ê schematu autoryzacji uøywanego w us≥ugach Eazel
+Summary(pl.UTF-8):   Czƒô≈õƒá schematu autoryzacji u≈ºywanego w us≈Çugach Eazel
 Name:		ammonite
 Version:	1.0.2
 Release:	1
@@ -28,22 +28,22 @@ Ammonite provides the user authentication and encryption features used
 by Eazel Services. It is part of the GNOME project, and its source
 code can be found in the GNOME CVS repository.
 
-%description -l pl
-Ammonite jest nie-keszuj±cym serwerem proxy HTTP po stronie klienta ze
-specjalnymi moøliwo∂ciami koniecznymi by mÛc korzystaÊ z Us≥ug Eazel.
-Ammonite dostarcza uøytkownikowi moøliwo∂Ê autentyfikacji oraz
+%description -l pl.UTF-8
+Ammonite jest nie-keszujƒÖcym serwerem proxy HTTP po stronie klienta ze
+specjalnymi mo≈ºliwo≈õciami koniecznymi by m√≥c korzystaƒá z Us≈Çug Eazel.
+Ammonite dostarcza u≈ºytkownikowi mo≈ºliwo≈õƒá autentyfikacji oraz
 szyfrowania danych.
 
 %package devel
 Summary:	Header files and libraries
-Summary(pl):	Pliki nag≥Ûwkowe i biblioteki statyczne
+Summary(pl.UTF-8):   Pliki nag≈Ç√≥wkowe i biblioteki statyczne
 Group:		Development/Libraries
 
 %description devel
 Header files and libraries
 
-%description devel -l pl
-Pliki nag≥Ûwkowe i biblioteki statyczne.
+%description devel -l pl.UTF-8
+Pliki nag≈Ç√≥wkowe i biblioteki statyczne.
 
 %prep
 %setup -q
