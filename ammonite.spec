@@ -3,9 +3,9 @@ Summary(pl.UTF-8):	Część schematu autoryzacji używanego w usługach Eazel
 Name:		ammonite
 Version:	1.0.2
 Release:	1
-License:	GPL
+License:	GPL v2+
 Group:		X11/Applications
-Source0:	ftp://ftp.gnome.org/pub/GNOME/sources/%{name}/1.0/%{name}-%{version}.tar.gz
+Source0:	http://ftp.gnome.org/pub/GNOME/sources/ammonite/1.0/%{name}-%{version}.tar.gz
 # Source0-md5:	92653cf5e4e0b8d6e4e1fbc606aeea8a
 URL:		http://www.gnome.org/
 BuildRequires:	GConf-devel >= 0.11.0
