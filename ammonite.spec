@@ -9,7 +9,7 @@ Source0:	http://ftp.gnome.org/pub/GNOME/sources/ammonite/1.0/%{name}-%{version}.
 # Source0-md5:	92653cf5e4e0b8d6e4e1fbc606aeea8a
 URL:		http://www.gnome.org/
 BuildRequires:	GConf-devel >= 0.11.0
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRequires:	glib-devel >= 1.2.8
 BuildRequires:	gnome-libs >= 1.2.0
 BuildRequires:	libxml-devel
